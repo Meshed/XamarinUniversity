@@ -1,0 +1,3 @@
+XamarinUniversity.MainActivity;xamarinuniversity.MainActivity
+XamarinUniversity.InstructorAdapter;xamarinuniversity.InstructorAdapter
+XamarinUniversity.ViewHolder;xamarinuniversity.ViewHolder
